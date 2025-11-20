@@ -1,6 +1,11 @@
-fastapi
-uvicorn
-pydantic
-sentence-transformers
+Flask
+requests
 numpy
-python-dotenv
+sentence-transformers
+torch
+transformers
+fuzzywuzzy
+python-levenshtein
+scikit-learn
+tqdm
+huggingface-hub
